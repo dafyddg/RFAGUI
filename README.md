@@ -22,4 +22,4 @@ author={Gibbon, Dafydd},
 year={2023},
 pages={233–265}}
 
-** Note: in addition to the RFAGUI project, the main RFA implementation with a more complete CLI application suite is in the RFA project repository.**
+**Note: in addition to the RFAGUI project, the main RFA implementation with a more complete CLI application suite is in the RFA project repository.**
