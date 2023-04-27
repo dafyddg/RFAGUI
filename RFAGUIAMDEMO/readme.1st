@@ -1,0 +1,32 @@
+readme.1st information for "rfaguiam.py"
+D. Gibbon
+2023-04-26
+
+Description
+
+This FOSS (Free and Open Source Software) application was developed under Linux and may run under other OS with appropriate Python3 installations, but has not been tested with other OS. Bug reports, optimisations and other improvements are welcome.
+
+The Python3 application requires the following libraries:
+1. numpy
+2. scipy
+3. matplotlib
+4. tkinter
+
+Quickstart
+
+1. Command line operation is recommended (to obtain status and error messages)
+2. Start:
+		Double-click from file explorer
+		Command line (with or without audio file parameter)
+3. Click "File" to select mono WAV data (if not given on command line)
+4. Check and if necessary set parameter values with fields/buttons provided
+5. Click "RFA" to process the audio file and display visualisations
+6. After changing or resetting parameter values, click "RFA" to continue.
+7. To process a new file without restarting, click "File" and continue as above.
+
+Information
+
+1. This file.
+2. A text file with demo data sources is in the DATA directory.
+3. A text file with names of parameters with values listed in figure filenames.
+

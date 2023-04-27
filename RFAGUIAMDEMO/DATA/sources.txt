@@ -1,0 +1,13 @@
+Data sources and purposes
+D. Gibbon, 2023-04-26
+
+countingtothirty-faster.wav
+countingtothirty-slower.wav
+	Spoken by Dafydd Gibbon for illustration of RFT/RFA.
+	Shows morphologically determined different rhythms:
+		1...10, 11, 12, 13...20, 21...29
+	The two different speeds relate to different rhythm frequencies.
+
+NW048-da-eng-16k.wav
+	"The North Wind and the Sun", read by David Abercrombie
+	Available from the Edinburgh University archive.
